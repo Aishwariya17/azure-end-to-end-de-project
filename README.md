@@ -16,6 +16,7 @@ A production-style end-to-end Azure data engineering pipeline that ingests data 
 
 ## Architecture
 
+![Architecture Diagram](https://github.com/Aishwariya17/azure-end-to-end-de-project/blob/main/architecture/Data%20Architecture.png?raw=true) 
 ```
 On-Prem SQL Server (AdventureWorksLT2017)
             │

@@ -196,5 +196,4 @@ azure-de-project/
 
 ## Author
 **Aishwariya**
-Data Analytics Engineering | Northeastern University
-[LinkedIn](#) | [GitHub](#)
+Data Analytics Engineering

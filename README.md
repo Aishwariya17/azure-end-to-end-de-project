@@ -196,4 +196,3 @@ azure-de-project/
 
 ## Author
 **Aishwariya**
-Data Analytics Engineering
